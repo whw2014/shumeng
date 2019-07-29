@@ -10,5 +10,6 @@ public class TestController {
     @RequestMapping("/abc")
     public void getInfo(){
         System.out.println("ascascs");
+        System.out.println("ascascs");
     }
 }
